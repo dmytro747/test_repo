@@ -1,6 +1,6 @@
 import { CompatRoute } from 'react-router-dom-v5-compat';
 import React from 'react';
-console.log('test');
+console.log('tessesdfsdft');
 const test = () => {
 	return <div>test</div>;
 };
